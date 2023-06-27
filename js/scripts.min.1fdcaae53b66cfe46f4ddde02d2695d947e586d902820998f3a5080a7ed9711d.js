@@ -1,0 +1,1 @@
+$(document).ready(function(){var t,e=document.querySelectorAll(".dropcap");window.Dropcap.layout(e,2),t=responsiveNav(".nav-collapse"),$(".time").text(function(e,t){return Math.round(parseFloat(t))})})
